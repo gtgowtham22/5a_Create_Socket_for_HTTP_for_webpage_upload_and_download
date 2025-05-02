@@ -55,8 +55,13 @@ if __name__ == "__main__":
 
 ```
 ## OUTPUT
+```
 ![act 5 pyth](https://github.com/user-attachments/assets/efd4ae5c-e42b-43a0-ac0c-30a2a9ad4994)
+
+
 ![act 5 cmd](https://github.com/user-attachments/assets/7b45d462-3ee1-4cc3-bde0-a40209897803)
+
+```
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
